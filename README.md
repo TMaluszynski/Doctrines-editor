@@ -7,9 +7,9 @@ are at [Doctrines-playtest](https://github.com/TMaluszynski/Doctrines-playtest).
 Each release on the [Releases](../../releases) page is a zip with:
 
 - `doctrines-editor.exe`: checks, lists and shows the game's content files and scaffolds a mod folder
-  (Windows 10/11 64-bit, no install; SmartScreen may warn about an unknown publisher: *More info* → *Run anyway*).
+  (Windows 10/11 64-bit, no install; SmartScreen may warn about an unknown publisher: More info, Run anyway).
 - `Modding/`: the reference, an index and one `SKILL.md` per domain, written for people and for AI assistants.
-  Point your assistant at a skill file and ask it to add a weapon, a race, a unit or a doctrine.
+  Point an assistant at a skill file and ask it to add a weapon, a race, a unit or a doctrine.
 - `README.txt`: how to use the tool; `CHANGELOG.md`: what changed.
 
 ## What can be modded
